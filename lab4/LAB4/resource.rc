@@ -1,0 +1,15 @@
+#include <windows.h>
+#include "resource.h"
+
+IDR_MYMENU MENU
+BEGIN
+POPUP "Objects"
+BEGIN
+MENUITEM "Rectangle", IDM_RECTANGLE
+MENUITEM "Ellipse", IDM_ELLIPSE
+MENUITEM "Line with Circles", IDM_LINEOO
+MENUITEM "Cube", IDM_CUBE
+MENUITEM SEPARATOR
+MENUITEM "Exit", IDM_EXIT
+END
+END

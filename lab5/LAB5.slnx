@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../LAB4/MyEditorDll/MyEditorDll.vcxproj" Id="c3d4df3c-c89e-44e6-941a-1b35a61f83dc" />
+  <Project Path="LAB5.vcxproj" Id="394563cb-511a-4989-9ed1-a838b95fbc2a">
+    <BuildDependency Project="../LAB4/MyEditorDll/MyEditorDll.vcxproj" />
+  </Project>
+</Solution>

@@ -1,0 +1,4 @@
+#define IDR_MYMENU 100
+#define IDM_RECTANGLE 101
+#define IDM_ELLIPSE 102
+#define IDM_EXIT 103

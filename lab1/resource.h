@@ -1,0 +1,9 @@
+#define IDR_MYMENU 100
+#define IDM_WORK1 101
+#define IDM_WORK2 102
+#define IDM_EXIT 103
+#define IDD_DIALOG1 201
+#define IDC_EDIT1 202
+#define IDD_DIALOG2 301
+#define IDC_SCROLLBAR1 302
+#define IDC_STATIC_TEXT 303
